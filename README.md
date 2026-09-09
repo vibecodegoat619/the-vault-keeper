@@ -1,5 +1,8 @@
 # The Vault-Keeper
 
+**Repo:** https://github.com/vibecodegoat619/the-vault-keeper
+
+
 A playable browser prototype of **Call of the Vault-Keeper** for
 [World of ClaudeCraft](https://github.com/levy-street/world-of-claudecraft).
 
@@ -47,8 +50,8 @@ purchase is convenience only.
   Character Vault is private. The Personal Bank is the 28-slot character bank.
 - **No pay-to-win.** The permit unlocks the summon. It does not change combat.
 
-Proposed for World of ClaudeCraft as a quality-of-life $WOC sink. See the
-feature request on the upstream tracker after this repo is published.
+Proposed for World of ClaudeCraft as a quality-of-life $WOC sink. The filled
+Feature request form lives in [FEATURE_REQUEST.md](./FEATURE_REQUEST.md).
 
 ## Run locally
 
