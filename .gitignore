@@ -1,0 +1,31 @@
+# Dependencies
+node_modules/
+
+# Build / deploy
+dist/
+.output/
+.vercel/
+.nitro/
+.tanstack/
+*.tsbuildinfo
+
+# Local / sandbox
+.grok/
+artifacts/
+screenshots/
+.project_id
+.node_modules.lock
+public/__grok/
+AGENTS.md
+AGENTS.project.md
+startup.sh
+
+# Env and logs
+.env
+.env.*
+!.env.example
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
